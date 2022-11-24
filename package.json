@@ -18,6 +18,13 @@
   },
   "homepage": "https://github.com/AmineADD/Jenkins-CI#readme",
   "devDependencies": {
+    "express": "^4.18.2",
+    "jest": "^29.3.1",
+    "dotenv": "^16.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
     "jest": "^29.3.1"
   }
 }
