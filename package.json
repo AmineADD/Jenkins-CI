@@ -1,0 +1,19 @@
+{
+  "name": "devcontinous",
+  "version": "1.0.0",
+  "description": "amine test jenkins pipeline",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmineADD/Jenkins-CI.git"
+  },
+  "author": "Amine01Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmineADD/Jenkins-CI/issues"
+  },
+  "homepage": "https://github.com/AmineADD/Jenkins-CI#readme"
+}
