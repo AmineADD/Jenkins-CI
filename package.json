@@ -4,7 +4,8 @@
   "description": "amine test jenkins pipeline",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AmineADD/Jenkins-CI/issues"
   },
-  "homepage": "https://github.com/AmineADD/Jenkins-CI#readme"
+  "homepage": "https://github.com/AmineADD/Jenkins-CI#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
